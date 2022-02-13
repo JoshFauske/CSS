@@ -1,0 +1,77 @@
+.border {
+	border: 1px solid black;
+}
+
+.borders {
+	/* border-width: 5px;
+	border-style: solid;
+	border-color: black; */
+	border: 5px solid black;
+	border-radius: 10px;
+}
+
+.width {
+	/* width: 150px; */
+	width: 50%;
+}
+
+.height {
+	/* height: 150px; */
+	height: 50%;
+}
+
+.margin {
+	/* margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px; */
+	/* margin: 25px; */
+	margin: 25px 50px;
+}
+
+.padding {
+		/* padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px; */
+	/* padding: 25px; */
+	padding: 25px 50px;
+}
+
+.backgroundColor {
+	background-color: red;
+	/* background-color: #FF0000;
+	background-color: rgb(255, 0, 0);
+	background-color: rgba(255, 0, 0, 0.5); */
+}
+
+.fontStyles {
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 25px;
+	color: blue;
+}
+
+.textAlign {
+	/* text-align: center;
+	text-align: right; */
+	text-align: left;
+}
+
+.cursor {
+	cursor: pointer;
+	cursor: none;
+	cursor: grab;
+}
+
+.btn {
+	background-color: #04aa6d;
+	color: white;
+	padding: 10px;
+	margin: 10px 0;
+	border: 2px solid black;
+	width: 25%;
+	height: 50px;
+	cursor: pointer;
+}
